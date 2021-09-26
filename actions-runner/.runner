@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "DESKTOP-OUT3CB4",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/43597MhsJls17JzzOwaiI2ffU3FCLz0ZiU7WIojEjmqWJLaI7A",
+  "gitHubUrl": "https://github.com/pryamm/dts-cicd",
+  "workFolder": "_work"
+}
